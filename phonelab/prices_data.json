@@ -1,0 +1,655 @@
+[{
+        "companyName": "Apple",
+        "itemName": "iPhone SE 2020",
+        "screenPrice": "€120",
+        "batteryPrice": "€75"
+    },
+    {
+        "companyName": "Apple",
+        "itemName": "iPhone 11 Pro Max",
+        "screenPrice": "€450*",
+        "batteryPrice": "€100"
+    },
+    {
+        "companyName": "Apple",
+        "itemName": "iPhone 11 Pro\n",
+        "screenPrice": "€450*",
+        "batteryPrice": "€100"
+    },
+    {
+        "companyName": "Apple",
+        "itemName": "iPhone 11",
+        "screenPrice": "€190",
+        "batteryPrice": "€100"
+    },
+    {
+        "companyName": "Apple",
+        "itemName": "iPhone XS Max",
+        "screenPrice": "€350",
+        "batteryPrice": "€100"
+    },
+    {
+        "companyName": "Apple",
+        "itemName": "iPhone XS",
+        "screenPrice": "€250",
+        "batteryPrice": "€100"
+    },
+    {
+        "companyName": "Apple",
+        "itemName": "iPhone XR",
+        "screenPrice": "€150",
+        "batteryPrice": "€75"
+    },
+    {
+        "companyName": "Apple",
+        "itemName": "iPhone X",
+        "screenPrice": "€220",
+        "batteryPrice": "€75"
+    },
+    {
+        "companyName": "Apple",
+        "itemName": "iPhone 8+ ",
+        "screenPrice": "€140",
+        "batteryPrice": "€75"
+    },
+    {
+        "companyName": "Apple",
+        "itemName": "iPhone 8",
+        "screenPrice": "€120",
+        "batteryPrice": "€75"
+    },
+    {
+        "companyName": "Apple",
+        "itemName": "iPhone 7+",
+        "screenPrice": "€120",
+        "batteryPrice": "€50"
+    },
+    {
+        "companyName": "Apple",
+        "itemName": "iPhone 7",
+        "screenPrice": "€110",
+        "batteryPrice": "€50"
+    },
+    {
+        "companyName": "Apple",
+        "itemName": "iPhone 6S+",
+        "screenPrice": "€110",
+        "batteryPrice": "€40"
+    },
+    {
+        "companyName": "Apple",
+        "itemName": "iPhone 6S",
+        "screenPrice": "€100",
+        "batteryPrice": "€40"
+    },
+    {
+        "companyName": "Apple",
+        "itemName": "iPhone 6+",
+        "screenPrice": "€100",
+        "batteryPrice": "€40"
+    },
+    {
+        "companyName": "Apple",
+        "itemName": "iPhone 6",
+        "screenPrice": "€90",
+        "batteryPrice": "€40"
+    },
+    {
+        "companyName": "Apple",
+        "itemName": "iPhone 5S / SE",
+        "screenPrice": "€80",
+        "batteryPrice": "€30"
+    },
+    {
+        "companyName": "Apple",
+        "itemName": "iPhone 5C",
+        "screenPrice": "€70",
+        "batteryPrice": "€30"
+    },
+    {
+        "companyName": "Apple",
+        "itemName": "iPhone 5",
+        "screenPrice": "€70",
+        "batteryPrice": "€30"
+    },
+    {
+        "companyName": null,
+        "itemName": "* Deze reparatie doen wij momenteel alleen op aanvraag.",
+        "screenPrice": null,
+        "batteryPrice": null
+    },
+    {
+        "companyName": "iPad",
+        "itemName": "Air 1 (2013) ",
+        "modelNumber": "A1474",
+        "screenPrice": "€100"
+    },
+    {
+        "companyName": "iPad",
+        "itemName": "Air 2 (2014)",
+        "modelNumber": "A1566",
+        "screenPrice": "€220"
+    },
+    {
+        "companyName": "iPad",
+        "itemName": "Air 3 (2019)",
+        "modelNumber": "A2152",
+        "screenPrice": "€220"
+    },
+    {
+        "companyName": "iPad",
+        "itemName": "Pro 12.9'' (2015)",
+        "modelNumber": "A1584",
+        "screenPrice": "€250"
+    },
+    {
+        "companyName": "iPad",
+        "itemName": "Pro 9.7'' (2016)",
+        "modelNumber": "A1673",
+        "screenPrice": "€240"
+    },
+    {
+        "companyName": "iPad",
+        "itemName": "Pro 10.5'' (2016)\n",
+        "modelNumber": "A1701",
+        "screenPrice": "€270"
+    },
+    {
+        "companyName": "iPad",
+        "itemName": "Pro 12.9'' (2017)",
+        "modelNumber": "A1670",
+        "screenPrice": "o.a"
+    },
+    {
+        "companyName": "iPad",
+        "itemName": "Pro 12.9'' (2018)",
+        "modelNumber": "A1876",
+        "screenPrice": "€450"
+    },
+    {
+        "companyName": "iPad",
+        "itemName": "Pro 11'' (2018)",
+        "modelNumber": "A1980",
+        "screenPrice": "€430"
+    },
+    {
+        "companyName": "iPad",
+        "itemName": "2 (2011)",
+        "modelNumber": "A1395",
+        "screenPrice": "€50"
+    },
+    {
+        "companyName": "iPad",
+        "itemName": "3/4 (2012)",
+        "modelNumber": "A1416/A1458",
+        "screenPrice": "€75"
+    },
+    {
+        "companyName": "iPad",
+        "itemName": "5 (2017)",
+        "modelNumber": "A1822",
+        "screenPrice": "€125"
+    },
+    {
+        "companyName": "iPad",
+        "itemName": "6 (2018)",
+        "modelNumber": "A1893",
+        "screenPrice": "€150"
+    },
+    {
+        "companyName": "iPad",
+        "itemName": "7 (2019)",
+        "modelNumber": "A2197",
+        "screenPrice": "€150"
+    },
+    {
+        "companyName": "iPad",
+        "itemName": "Mini 1/2 (2012/2013)",
+        "modelNumber": "A1432/A1489",
+        "screenPrice": "€75"
+    },
+    {
+        "companyName": "iPad",
+        "itemName": "Mini 3 (2014)",
+        "modelNumber": "A1599",
+        "screenPrice": "€90"
+    },
+    {
+        "companyName": "iPad",
+        "itemName": "Mini 4 (2017)",
+        "modelNumber": "A1538",
+        "screenPrice": "€160"
+    },
+    {
+        "companyName": "Samsung",
+        "itemName": "Galaxy S20 Plus",
+        "screenPrice": "€280",
+        "batteryPrice": "€75"
+    },
+    {
+        "companyName": "Samsung",
+        "itemName": "Galaxy S20",
+        "screenPrice": "€260",
+        "batteryPrice": "€75"
+    },
+    {
+        "companyName": "Samsung",
+        "itemName": "Galaxy S10 Plus\n",
+        "screenPrice": "€280",
+        "batteryPrice": "€75"
+    },
+    {
+        "companyName": "Samsung",
+        "itemName": "Galaxy S10",
+        "screenPrice": "€270",
+        "batteryPrice": "€75"
+    },
+    {
+        "companyName": "Samsung",
+        "itemName": "Galaxy S10e",
+        "screenPrice": "€220",
+        "batteryPrice": "€75"
+    },
+    {
+        "companyName": "Samsung",
+        "itemName": "Galaxy S9+",
+        "screenPrice": "€270",
+        "batteryPrice": "€75"
+    },
+    {
+        "companyName": "Samsung",
+        "itemName": "Galaxy S9",
+        "screenPrice": "€250",
+        "batteryPrice": "€75"
+    },
+    {
+        "companyName": "Samsung",
+        "itemName": "Galaxy Note 9",
+        "screenPrice": "€260",
+        "batteryPrice": "o.a."
+    },
+    {
+        "companyName": "Samsung",
+        "itemName": "Galaxy S8+ ",
+        "screenPrice": "€220",
+        "batteryPrice": "€75"
+    },
+    {
+        "companyName": "Samsung",
+        "itemName": "Galaxy Note 8",
+        "screenPrice": "€250",
+        "batteryPrice": "o.a"
+    },
+    {
+        "companyName": "Samsung",
+        "itemName": "Galaxy S8 ",
+        "screenPrice": "€220",
+        "batteryPrice": "€75"
+    },
+    {
+        "companyName": "Samsung",
+        "itemName": "Galaxy S7 Edge\n",
+        "screenPrice": "€230",
+        "batteryPrice": "€60"
+    },
+    {
+        "companyName": "Samsung",
+        "itemName": "Galaxy S7 ",
+        "screenPrice": "€150",
+        "batteryPrice": "€60"
+    },
+    {
+        "companyName": "Samsung",
+        "itemName": "Galaxy S6 Edge",
+        "screenPrice": "€130",
+        "batteryPrice": "€50"
+    },
+    {
+        "companyName": "Samsung",
+        "itemName": "Galaxy S6",
+        "screenPrice": "€160",
+        "batteryPrice": "€50"
+    },
+    {
+        "companyName": "Samsung",
+        "itemName": "Galaxy S5",
+        "screenPrice": "€90",
+        "batteryPrice": "€30"
+    },
+    {
+        "companyName": "Samsung",
+        "itemName": "Galaxy J7 (2017)",
+        "screenPrice": "€110",
+        "batteryPrice": "o.a"
+    },
+    {
+        "companyName": "Samsung",
+        "itemName": "Galaxy J5 (2017)",
+        "screenPrice": "€110",
+        "batteryPrice": "o.a"
+    },
+    {
+        "companyName": "Samsung",
+        "itemName": "Galaxy A8 (2018)",
+        "screenPrice": "€120",
+        "batteryPrice": "o.a"
+    },
+    {
+        "companyName": "Samsung",
+        "itemName": "Galaxy A7 (2018)",
+        "screenPrice": "€120",
+        "batteryPrice": "o.a"
+    },
+    {
+        "companyName": "Samsung",
+        "itemName": "Galaxy A6 (2018)",
+        "screenPrice": "€90",
+        "batteryPrice": "o.a"
+    },
+    {
+        "companyName": "Samsung",
+        "itemName": "Galaxy A5 (2017)",
+        "screenPrice": "€130",
+        "batteryPrice": "€40"
+    },
+    {
+        "companyName": "Samsung",
+        "itemName": "Galaxy A80",
+        "screenPrice": "€150",
+        "batteryPrice": "o.a"
+    },
+    {
+        "companyName": "Samsung",
+        "itemName": "Galaxy A71",
+        "screenPrice": "€150",
+        "batteryPrice": "o.a"
+    },
+    {
+        "companyName": "Samsung",
+        "itemName": "Galaxy A70",
+        "screenPrice": "€150",
+        "batteryPrice": "o.a"
+    },
+    {
+        "companyName": "Samsung",
+        "itemName": "Galaxy A51",
+        "screenPrice": "€140",
+        "batteryPrice": "o.a"
+    },
+    {
+        "companyName": "Samsung",
+        "itemName": "Galaxy A50",
+        "screenPrice": "€130",
+        "batteryPrice": "o.a"
+    },
+    {
+        "companyName": "Samsung",
+        "itemName": "Galaxy A40",
+        "screenPrice": "€120",
+        "batteryPrice": "o.a"
+    },
+    {
+        "companyName": "Samsung",
+        "itemName": "Galaxy A5 (2016)",
+        "screenPrice": "€110",
+        "batteryPrice": "€40"
+    },
+    {
+        "companyName": "Samsung",
+        "itemName": "Galaxy A3 (2017)",
+        "screenPrice": "€110",
+        "batteryPrice": "€50"
+    },
+    {
+        "companyName": "OnePlus",
+        "itemName": "OnePlus 8 Pro\n",
+        "screenPrice": "€283",
+        "batteryPrice": "€44"
+    },
+    {
+        "companyName": "OnePlus",
+        "itemName": "OnePlus 8",
+        "screenPrice": "€204",
+        "batteryPrice": "€39"
+    },
+    {
+        "companyName": "OnePlus",
+        "itemName": "OnePlus 7T Pro",
+        "screenPrice": "€200",
+        "batteryPrice": "€33"
+    },
+    {
+        "companyName": "OnePlus",
+        "itemName": "OnePlus 7T",
+        "screenPrice": "€189",
+        "batteryPrice": "€33"
+    },
+    {
+        "companyName": "OnePlus",
+        "itemName": "OnePlus 7 Pro\n",
+        "screenPrice": "€200",
+        "batteryPrice": "€33"
+    },
+    {
+        "companyName": "OnePlus",
+        "itemName": "OnePlus 7",
+        "screenPrice": "€127",
+        "batteryPrice": "€32"
+    },
+    {
+        "companyName": "OnePlus",
+        "itemName": "OnePlus 6T",
+        "screenPrice": "€126",
+        "batteryPrice": "€32"
+    },
+    {
+        "companyName": "OnePlus",
+        "itemName": "OnePlus 6",
+        "screenPrice": "€123",
+        "batteryPrice": "€32"
+    },
+    {
+        "companyName": "OnePlus",
+        "itemName": "OnePlus 5T",
+        "screenPrice": "€121",
+        "batteryPrice": "€32"
+    },
+    {
+        "companyName": "OnePlus",
+        "itemName": "OnePlus 5",
+        "screenPrice": "€97",
+        "batteryPrice": "€32"
+    },
+    {
+        "companyName": "OnePlus",
+        "itemName": "OnePlus 3T",
+        "screenPrice": "€89",
+        "batteryPrice": "€30"
+    },
+    {
+        "companyName": "OnePlus",
+        "itemName": "OnePlus 3",
+        "screenPrice": "€89",
+        "batteryPrice": "€30"
+    },
+    {
+        "companyName": "OnePlus",
+        "itemName": "OnePlus X",
+        "screenPrice": "€86",
+        "batteryPrice": "€34"
+    },
+    {
+        "companyName": "OnePlus",
+        "itemName": "OnePlus 2",
+        "screenPrice": "€64",
+        "batteryPrice": "€35"
+    },
+    {
+        "companyName": "Huawei",
+        "itemName": "P30 Pro",
+        "screenPrice": "€290",
+        "batteryPrice": "€50"
+    },
+    {
+        "companyName": "Huawei",
+        "itemName": "P30",
+        "screenPrice": "€230",
+        "batteryPrice": "€50"
+    },
+    {
+        "companyName": "Huawei",
+        "itemName": "P30 Lite",
+        "screenPrice": "€140",
+        "batteryPrice": "€50"
+    },
+    {
+        "companyName": "Huawei",
+        "itemName": "P Smart 2019",
+        "screenPrice": "€130",
+        "batteryPrice": "o.a"
+    },
+    {
+        "companyName": "Huawei",
+        "itemName": "P Smart 2018",
+        "screenPrice": "€130",
+        "batteryPrice": "o.a"
+    },
+    {
+        "companyName": "Huawei",
+        "itemName": "P20 Pro",
+        "screenPrice": "€290",
+        "batteryPrice": "€50"
+    },
+    {
+        "companyName": "Huawei",
+        "itemName": "P20",
+        "screenPrice": "€150",
+        "batteryPrice": "€50"
+    },
+    {
+        "companyName": "Huawei",
+        "itemName": "P20 Lite",
+        "screenPrice": "€140",
+        "batteryPrice": "€50"
+    },
+    {
+        "companyName": "Huawei",
+        "itemName": "P10",
+        "screenPrice": "€120",
+        "batteryPrice": "€50"
+    },
+    {
+        "companyName": "Huawei",
+        "itemName": "P10 Lite",
+        "screenPrice": "€90",
+        "batteryPrice": "€40"
+    },
+    {
+        "companyName": "Huawei",
+        "itemName": "P9",
+        "screenPrice": "€70",
+        "batteryPrice": "€40"
+    },
+    {
+        "companyName": "Huawei",
+        "itemName": "P9 Lite",
+        "screenPrice": "€70",
+        "batteryPrice": "€40"
+    },
+    {
+        "companyName": "Huawei",
+        "itemName": "Nexus 6P",
+        "screenPrice": "€120\n",
+        "batteryPrice": "€50"
+    },
+    {
+        "companyName": "Google",
+        "itemName": "Pixel 4 XL",
+        "screenPrice": "€200",
+        "batteryPrice": "o.a"
+    },
+    {
+        "companyName": "Google",
+        "itemName": "Pixel 4",
+        "screenPrice": "€190",
+        "batteryPrice": "o.a"
+    },
+    {
+        "companyName": "Google",
+        "itemName": "Pixel 3 XL",
+        "screenPrice": "€240",
+        "batteryPrice": "€75"
+    },
+    {
+        "companyName": "Google",
+        "itemName": "Pixel 3a XL",
+        "screenPrice": "€190",
+        "batteryPrice": "o.a"
+    },
+    {
+        "companyName": "Google",
+        "itemName": "Pixel 3a\n",
+        "screenPrice": "€180",
+        "batteryPrice": "€40"
+    },
+    {
+        "companyName": "Google",
+        "itemName": "Pixel 3",
+        "screenPrice": "€190",
+        "batteryPrice": "€75"
+    },
+    {
+        "companyName": "Google",
+        "itemName": "Pixel 2 XL",
+        "screenPrice": "€210",
+        "batteryPrice": "€40"
+    },
+    {
+        "companyName": "Google",
+        "itemName": "Pixel 2",
+        "screenPrice": "€180",
+        "batteryPrice": "€40"
+    },
+    {
+        "companyName": "LG",
+        "itemName": "G6",
+        "screenPrice": "€120",
+        "batteryPrice": "€50"
+    },
+    {
+        "companyName": "LG",
+        "itemName": "G5",
+        "screenPrice": "€90",
+        "batteryPrice": "€40"
+    },
+    {
+        "companyName": "LG",
+        "itemName": "G4",
+        "screenPrice": "€90",
+        "batteryPrice": "€30"
+    },
+    {
+        "companyName": "LG",
+        "itemName": "G3",
+        "screenPrice": "€60",
+        "batteryPrice": "€30"
+    },
+    {
+        "companyName": "LG",
+        "itemName": "G2 ",
+        "screenPrice": "o.a",
+        "batteryPrice": "o.a"
+    },
+    {
+        "companyName": "LG",
+        "itemName": "Nexus 5x",
+        "screenPrice": "€90",
+        "batteryPrice": "€40"
+    },
+    {
+        "companyName": "LG",
+        "itemName": "Nexus 5",
+        "screenPrice": "€80",
+        "batteryPrice": "€30"
+    }
+]
